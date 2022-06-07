@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+  },
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  }
+}
